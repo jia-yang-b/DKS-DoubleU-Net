@@ -1,3 +1,3 @@
 # win_test0
 try_only
-hello
+hello  你好
