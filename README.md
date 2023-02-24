@@ -17,7 +17,7 @@ We have uploaded the corresponding environment package for your convenience.
 3.Testing:
 * Run ```python predict.py```
 
-In the pre_trained folder we upload the model trained on our dataset.
+In the pre_trained folder we have uploaded the model trained on our dataset.
 ## Citation  
 If you find our paper/code is helpful, please consider citing:  
 vvvvvvvvvvvvvvv
