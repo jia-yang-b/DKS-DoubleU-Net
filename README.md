@@ -3,7 +3,7 @@
 This repo. is the official implementation of "Segmentation of Breast Tubules in H&E Images Based on a DKS-DoubleU-Net Model" .  
 Please see the [paper](https://www.hindawi.com/journals/bmri/2022/2961610/).  
 ## Overview  
-![tupian](/images/KMS.png)
+![tupian](./images/KMS.png)
 
 ## Run  
 1.Requirements:  
