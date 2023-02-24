@@ -7,3 +7,5 @@ hello
 [链接名称](https://www.baidu.com/) 
 * 项目1
 * 项目2
+```train.py```
+![]( https://img.shields.io/badge/license-MIT-green.svg)
