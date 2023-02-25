@@ -20,7 +20,7 @@ Please see the [paper](https://www.hindawi.com/journals/bmri/2022/2961610/).
 We have uploaded the corresponding environment package for your convenience.  
 
 2.Training:  
-* Prepare the required images and store them in new_data folder, set up training image folders and validation image folders respectively.
+* Prepare the required images and store them in new_data folder, the example format of the training, validation, and testing datasets is in the  "new_data" folder.
 * Run ``` python train.py```  
 
 3.Testing:
