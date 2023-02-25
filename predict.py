@@ -91,12 +91,12 @@ def dice_loss(y_true, y_pred):
 if __name__ == "__main__":
     np.random.seed(42)
     tf.random.set_seed(42)
-    save_path="/dataset/test_save/"
+    save_path="./results"
     create_dir(save_path)
 
     batch_size = 16
 
-    test_path = "/dataset/test/"
+    test_path = "./new_data/test/image"
     test_x = sorted(glob(os.path.join(test_path, "*.jpg")))
     print(test_x)
     # test_y = sorted(glob(os.path.join(test_path, "mask", "*.png")))
