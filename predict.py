@@ -97,7 +97,7 @@ if __name__ == "__main__":
     batch_size = 16
 
     test_path = "./new_data/test/image"
-    test_x = sorted(glob(os.path.join(test_path, "*.jpg")))
+    test_x = sorted(glob(os.path.join(test_path, "*.png")))
     print(test_x)
     # test_y = sorted(glob(os.path.join(test_path, "mask", "*.png")))
     # test_dataset = tf_dataset(test_x, test_y, batch=batch_size)
