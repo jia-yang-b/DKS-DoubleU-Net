@@ -17,8 +17,7 @@ Please see the [paper](https://www.hindawi.com/journals/bmri/2022/2961610/).
 * python3  
 * tensorflow 2.3.0  
 * keras 1.0.8  
-
-  We have uploaded the corresponding environment package for your convenience.  
+We have uploaded the corresponding environment package for your convenience.  
 
 2.Training:  
 * Prepare the required images and store them in new_data folder, the example format of the training, validation, and testing datasets is in the  "new_data" folder.
